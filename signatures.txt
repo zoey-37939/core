@@ -1,0 +1,6 @@
+bitcoin-win64-setup.exe - 10deb124133f14afe874f1c5ecf2cc32
+aarch64-linux-gnu.tar.gz - d9bd7f934e3ee8d9fdc850884fbc2ecb
+arm-linux-gnueabihf.tar.gz - 3455774de6c4480daf52a240536ffde5
+powerpc64-linux-gnu.tar.gz - 98817afa258269a3bc69167c13f5472c
+riscv64-linux-gnu.tar.gz - aed0b794fc12b4af04f0fbc790ebd7c7
+x86_64-linux-gnu.tar.gz - 30e393de91d08984c87166f80f8054f4
